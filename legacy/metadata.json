@@ -1,0 +1,18 @@
+{
+  "scrapedAt": "2025-09-19T06:42:58.912Z",
+  "websiteInfo": {
+    "title": "Elektro-Service Kulzinger",
+    "description": "Elektrofachbetrieb für Hausgeräte und Küchenmodernisierung",
+    "technologies": []
+  },
+  "stats": {
+    "totalPages": 11,
+    "totalAssets": 28,
+    "totalWordCount": 0
+  },
+  "processingInfo": {
+    "v0Integration": true,
+    "legacyContentService": "v1.0.0",
+    "purpose": "Reference material for V0 modernization"
+  }
+}
